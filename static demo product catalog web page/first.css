@@ -1,0 +1,47 @@
+body {
+    font
+    -family: Arial, sans
+    -serif;
+    margin: 20px;
+    }
+    .categories {
+    margin
+    -bottom: 20px;
+    }
+    .categories h2 {
+    margin
+    -top: 0;
+    }
+    ul {
+    list
+    -style: none;
+    padding: 0;
+    }
+    li {
+    margin
+    -bottom: 20px;
+    }
+    img {
+    width: 100px;
+    height: 100px;
+    margin
+    -right: 20px;
+    }
+    h3 {
+    margin
+    -top: 0;
+    }
+    button {
+    background
+    -color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border
+    -radius: 5px;
+    cursor: pointer;
+    }
+    button:hover {
+    background
+    -color: #3e8e41;
+    }
